@@ -29,7 +29,7 @@ pip install requests beautifulsoup4 python-telegram-bot
 Clone the repository to your local machine:
 
 ```
-https://github.com/baranazal/HTML-PAGE-SCRAPER-BOT.git
+git clone https://github.com/baranazal/HTML-PAGE-SCRAPER-BOT.git
 ```
 
 Or you can download it manually 
@@ -68,9 +68,3 @@ The bot will scrape the page at the specified URL and send the page content to y
 ## Contributing
 
 If you would like to contribute to this project, please create a fork and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
