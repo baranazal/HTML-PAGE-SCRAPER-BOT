@@ -1,4 +1,4 @@
-# Web Scraper Bot
+# HTML Page Scraper Bot
 
 <p align="center">
 <a target="_blank"><img src = "https://user-images.githubusercontent.com/72268356/210573282-a0d4527f-6edc-463c-af4f-10e48112d157.jpg" alt="logo"></a>
