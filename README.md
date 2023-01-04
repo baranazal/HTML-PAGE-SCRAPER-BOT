@@ -34,6 +34,8 @@ git clone https://github.com/your-username/web-scraper-bot.git
 
 Or you can download it manually 
 
+### Running the bot
+
 You will also need to replace "YOUR_TOKEN" with your actual Telegram bot token in the code. You can obtain a bot token by talking to the @BotFather bot on Telegram and following the instructions here : https://t.me/botfather . 
 
 
