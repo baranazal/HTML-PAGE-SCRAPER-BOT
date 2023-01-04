@@ -29,7 +29,7 @@ pip install requests beautifulsoup4 python-telegram-bot
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/web-scraper-bot.git
+https://github.com/baranazal/HTML-PAGE-SCRAPER-BOT.git
 ```
 
 Or you can download it manually 
